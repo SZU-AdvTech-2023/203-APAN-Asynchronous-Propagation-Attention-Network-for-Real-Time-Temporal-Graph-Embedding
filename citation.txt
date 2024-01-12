@@ -1,0 +1,7 @@
+@inproceedings{REPO203,
+    author = "Wang, Xuhong and Lyu, Ding and Li, Mengjian and Xia, Yang and Yang, Qi and Wang, Xinwen and Wang, Xinguang and Cui, Ping and Yang, Yupu and Sun, Bowen and Guo, Zhenyu",
+    booktitle = "Proceedings of the 2021 International Conference on Management of Data",
+    pages = "2628¨C2638",
+    title = "{APAN: Asynchronous Propagation Attention Network for Real-Time Temporal Graph Embedding}",
+    year = "2021"
+}
